@@ -13,7 +13,35 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Multivariate linear regression (predicting house prices with multiple features)
   - [ ] **Stage 3:** Implementing linear regression from scratch using Python
 
-### Module 2: [Data Preprocessing](https://github.com/your-repo/module2)
+### Module 2: [NumPy](https://github.com/your-repo/module11)
+- [ ] **Introduction to NumPy**
+  - [ ] **Stage 0:** Understanding the basics of NumPy and its importance in data science
+  - [ ] **Stage 1:** Creating and manipulating arrays
+  - [ ] **Stage 2:** Performing mathematical operations with NumPy
+  - [ ] **Stage 3:** Advanced NumPy techniques and broadcasting
+
+### Module 3: [pandas](https://github.com/your-repo/module12)
+- [ ] **Introduction to pandas**
+  - [ ] **Stage 0:** Basics of pandas and its use in data manipulation
+  - [ ] **Stage 1:** Working with DataFrames and Series
+  - [ ] **Stage 2:** Data cleaning and preprocessing with pandas
+  - [ ] **Stage 3:** Advanced pandas operations and merging datasets
+
+### Module 4: [Matplotlib](https://github.com/your-repo/module13)
+- [ ] **Introduction to Matplotlib**
+  - [ ] **Stage 0:** Basics of Matplotlib for data visualization
+  - [ ] **Stage 1:** Creating basic plots (line, bar, scatter)
+  - [ ] **Stage 2:** Customizing plots (colors, labels, legends)
+  - [ ] **Stage 3:** Advanced plotting techniques and creating complex visualizations
+
+### Module 5: [Scikit-Learn](https://github.com/your-repo/module14)
+- [ ] **Introduction to Scikit-Learn**
+  - [ ] **Stage 0:** Overview of Scikit-Learn and its functionalities
+  - [ ] **Stage 1:** Implementing basic algorithms (classification, regression)
+  - [ ] **Stage 2:** Model evaluation and hyperparameter tuning
+  - [ ] **Stage 3:** Building and deploying a machine learning pipeline
+
+### Module 6: [Data Preprocessing](https://github.com/your-repo/module2)
 - [ ] **Data Cleaning and Preparation**
   - [ ] **Stage 0:** Introduction to data cleaning and its importance
   - [ ] **Stage 1:** Handling missing values in a dataset (Pandas)
@@ -25,14 +53,14 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Feature selection methods (e.g., Recursive Feature Elimination)
   - [ ] **Stage 3:** Advanced feature engineering and domain-specific features
 
-### Module 3: [Exploratory Data Analysis (EDA)](https://github.com/your-repo/module3)
+### Module 7: [Exploratory Data Analysis (EDA)](https://github.com/your-repo/module3)
 - [ ] **Understanding Data through Visualization**
   - [ ] **Stage 0:** Introduction to EDA and its importance
   - [ ] **Stage 1:** Simple data visualization with Matplotlib/Seaborn (bar charts, histograms)
   - [ ] **Stage 2:** Advanced data visualization techniques (pair plots, heatmaps)
   - [ ] **Stage 3:** EDA on a complex dataset (Kaggle dataset analysis)
 
-### Module 4: [Mathematics and Statistics for Data Science](https://github.com/your-repo/module4)
+### Module 8: [Mathematics and Statistics for Data Science](https://github.com/your-repo/module4)
 - [ ] **Probability and Statistics**
   - [ ] **Stage 0:** Introduction to basic probability concepts and statistical measures
   - [ ] **Stage 1:** Descriptive statistics and probability distributions (normal, binomial)
@@ -49,7 +77,7 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Partial derivatives and gradient
   - [ ] **Stage 3:** Optimization techniques (Gradient Descent)
 
-### Module 5: [Supervised Learning](https://github.com/your-repo/module5)
+### Module 9: [Supervised Learning](https://github.com/your-repo/module5)
 - [ ] **Classification Algorithms**
   - [ ] **Stage 0:** Introduction to classification problems and algorithms
   - [ ] **Stage 1:** Implementing K-Nearest Neighbors (KNN) for simple classification
@@ -61,7 +89,7 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Polynomial regression and regularization techniques (Ridge, Lasso)
   - [ ] **Stage 3:** Implementing Support Vector Regression (SVR)
 
-### Module 6: [Unsupervised Learning](https://github.com/your-repo/module6)
+### Module 10: [Unsupervised Learning](https://github.com/your-repo/module6)
 - [ ] **Clustering Algorithms**
   - [ ] **Stage 0:** Introduction to clustering problems and algorithms
   - [ ] **Stage 1:** K-Means clustering on a simple dataset
@@ -73,7 +101,7 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** t-SNE for visualization of high-dimensional data
   - [ ] **Stage 3:** Implementing LDA (Linear Discriminant Analysis)
 
-### Module 7: [Neural Networks and Deep Learning](https://github.com/your-repo/module7)
+### Module 11: [Neural Networks and Deep Learning](https://github.com/your-repo/module7)
 - [ ] **Introduction to Neural Networks**
   - [ ] **Stage 0:** Basic concepts of neural networks
   - [ ] **Stage 1:** Implementing a simple perceptron
@@ -90,7 +118,7 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Using LSTM for time series forecasting
   - [ ] **Stage 3:** Building complex sequence models for NLP tasks
 
-### Module 8: [Advanced Topics](https://github.com/your-repo/module8)
+### Module 12: [Advanced Topics](https://github.com/your-repo/module8)
 - [ ] **Natural Language Processing (NLP)**
   - [ ] **Stage 0:** Introduction to NLP and its importance
   - [ ] **Stage 1:** Text preprocessing and basic sentiment analysis
@@ -102,14 +130,14 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 2:** Policy gradients and deep Q-networks (DQN)
   - [ ] **Stage 3:** Solving a complex environment (e.g., OpenAI Gym)
 
-### Module 9: [Time Series Analysis](https://github.com/your-repo/module9)
+### Module 13: [Time Series Analysis](https://github.com/your-repo/module9)
 - [ ] **Introduction to Time Series Analysis**
   - [ ] **Stage 0:** Basic concepts of time series data
   - [ ] **Stage 1:** Simple moving averages
   - [ ] **Stage 2:** ARIMA models
   - [ ] **Stage 3:** LSTM networks for time series forecasting
 
-### Module 10: [Model Deployment and Monitoring](https://github.com/your-repo/module10)
+### Module 14: [Model Deployment and Monitoring](https://github.com/your-repo/module10)
 - [ ] **Deploying Machine Learning Models**
   - [ ] **Stage 0:** Introduction to model deployment
   - [ ] **Stage 1:** Saving and loading models with joblib/pickle
@@ -120,34 +148,6 @@ Welcome to the Ultimate Machine Learning A-Z Course! This comprehensive curricul
   - [ ] **Stage 1:** Tracking model performance over time
   - [ ] **Stage 2:** Handling model drift
   - [ ] **Stage 3:** Implementing automated model retraining
-
-### Module 11: [NumPy](https://github.com/your-repo/module11)
-- [ ] **Introduction to NumPy**
-  - [ ] **Stage 0:** Understanding the basics of NumPy and its importance in data science
-  - [ ] **Stage 1:** Creating and manipulating arrays
-  - [ ] **Stage 2:** Performing mathematical operations with NumPy
-  - [ ] **Stage 3:** Advanced NumPy techniques and broadcasting
-
-### Module 12: [pandas](https://github.com/your-repo/module12)
-- [ ] **Introduction to pandas**
-  - [ ] **Stage 0:** Basics of pandas and its use in data manipulation
-  - [ ] **Stage 1:** Working with DataFrames and Series
-  - [ ] **Stage 2:** Data cleaning and preprocessing with pandas
-  - [ ] **Stage 3:** Advanced pandas operations and merging datasets
-
-### Module 13: [Matplotlib](https://github.com/your-repo/module13)
-- [ ] **Introduction to Matplotlib**
-  - [ ] **Stage 0:** Basics of Matplotlib for data visualization
-  - [ ] **Stage 1:** Creating basic plots (line, bar, scatter)
-  - [ ] **Stage 2:** Customizing plots (colors, labels, legends)
-  - [ ] **Stage 3:** Advanced plotting techniques and creating complex visualizations
-
-### Module 14: [Scikit-Learn](https://github.com/your-repo/module14)
-- [ ] **Introduction to Scikit-Learn**
-  - [ ] **Stage 0:** Overview of Scikit-Learn and its functionalities
-  - [ ] **Stage 1:** Implementing basic algorithms (classification, regression)
-  - [ ] **Stage 2:** Model evaluation and hyperparameter tuning
-  - [ ] **Stage 3:** Building and deploying a machine learning pipeline
 
 ### Module 15: [ML Ops and Automation](https://github.com/your-repo/module15)
 - [ ] **Introduction to ML Ops**
@@ -229,7 +229,7 @@ To get started with this course, you will need a basic understanding of programm
 
 ## Contact
 
-For any questions or support, please reach out to [your-email@example.com].
+For any questions or support, please reach out to [rajkumarverma70790@gmail.com].
 
 Happy learning!
 
