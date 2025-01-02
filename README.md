@@ -1,3 +1,5 @@
+[click here to see contribution guide](https://github.com/Machine-Learning-A-2-Z/00---Basics-of-ML/blob/main/Contribution%20Guide.md)
+
 # Ultimate Machine Learning A-Z Course: Overview
 
 ## Course Overview
